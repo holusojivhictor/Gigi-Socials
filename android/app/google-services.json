@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442747416373",
+    "project_id": "gigi-socials",
+    "storage_bucket": "gigi-socials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442747416373:android:4ab48b02404ef90d65a67c",
+        "android_client_info": {
+          "package_name": "com.example.gigi_socials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442747416373-ho5572r201c17etl415o3abh1fa0vd1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gigi_socials",
+            "certificate_hash": "9676cd1abf04b6d51e46250ffdf8cd570dab44fd"
+          }
+        },
+        {
+          "client_id": "442747416373-8gccan3ctgfc6sbk62tr0g7pfj60q8a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQBaJzm3h2bC-mrUpM5yJw_aveVfs7uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442747416373-8gccan3ctgfc6sbk62tr0g7pfj60q8a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
